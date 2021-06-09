@@ -5,6 +5,7 @@ const game = () => {
   
   
     // Function to 
+    
     const playGame = () => {
         const rockBtn = document.querySelector('.rock');
         const paperBtn = document.querySelector('.paper');
